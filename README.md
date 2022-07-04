@@ -5,5 +5,7 @@ Software Developer
 - 🌱 I’m expanding my skills in Machine Learning
 - 💻 Currently working on three.js 
 - 📫 How to reach me: 
+
     Email Id : shailjaatkotiya@gmail.com
+
     LinkedIn : https://www.linkedin.com/in/shailja-atkotiya
