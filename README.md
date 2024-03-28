@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 Welcome to my GitHub profile!</h1>
+<h1 align="center">Welcome to my GitHub profile! 👋 </h1>
   <img src="https://github.com/Shailja2109/Shailja2109/blob/main/screen-capture4-ezgif.com-video-to-gif-converter.gif" width="100%" alr="Shailja Atkotiya A Senior Software Engineer"/>
 
 <p align="center">
