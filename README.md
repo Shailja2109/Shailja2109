@@ -10,12 +10,11 @@ I'm left-handed with the core characteristic of being creative. It's hard to dra
 </p>
 
 <div align="center">
-
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailjaatkotiya/)](https://www.linkedin.com/in/shailjaatkotiya/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shailjaatkotiya@gmail.com)](mailto:shailjaatkotiya@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome)](https://shailjaatkotiya@netlify.app)
 </div>
             
-- 🔭 I’m currently exploring fields like Digital Twin and Metaverse. 
-- 🌱 I’m expanding my skills in Machine Learning
-- 💻 Currently working on three.js 
+<p align="center">🔭 I’m currently exploring fields like Digital Twin and Metaverse. </p>
+<p align="center">🌱 I’m expanding my skills in Machine Learning </p>
+<p align="center">🔭 💻 Currently working on three.js </p>
